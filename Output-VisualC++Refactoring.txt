@@ -1,0 +1,5 @@
+﻿
+Renamed 'DataLoaded' to 'OnDataLoaded':
+---------------------------------------
+d:\Documents\Unreal Course\Section_03\Building Escape\Source\BuildingEscape\BalanceMass.h(44, 22)
+d:\Documents\Unreal Course\Section_03\Building Escape\Source\BuildingEscape\MassComponent.cpp(30, 17)
